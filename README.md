@@ -1,7 +1,7 @@
 # Customer-Segmentation-with-K-Means-Clustering-
 Customer Segmentation with K-Means Clustering - FLO dataset
 
-The dataset shows the customers which last purchases from the FLO store on Omnichannel(both online and offline shopping store)in 2020-2021. 
+The dataset shows the customers which last purchases from the FLO store on Omnichannel (both online and offline shopping store) in 2020-2021. 
 However, these customers have consist of infomation from their past shopping behavior.
 
 
